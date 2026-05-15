@@ -48,3 +48,4 @@ The objective of this project is to analyze car sales performance and create an 
 
 ## GitHub Repository
 https://github.com/omkart596-git/car-sales-dashboard
+![Dashboard](Car%20sales%20dashboard-overview.png)
